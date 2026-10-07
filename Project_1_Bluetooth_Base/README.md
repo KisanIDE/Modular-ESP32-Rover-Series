@@ -1,4 +1,5 @@
 # Smartphone-Controlled ESP32 Rover (Base Build)
+Video Link- https://youtu.be/IdMKgEKtOc4?feature=shared
 
 This is the foundational build of the Modular ESP32 Rover Series. It establishes the power management, motor driving logic, and wireless Bluetooth communications for a 3-wheel differential-drive robot.
 
