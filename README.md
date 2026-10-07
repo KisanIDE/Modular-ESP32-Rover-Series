@@ -1,6 +1,6 @@
 # 🚀 Modular ESP32 Rover Series
 
-Welcome to the **ESP32 Modular Rover Project**! This repository tracks the build and progress of a low-cost, 3-wheel differential-drive robot built using accessible components and standard Arduino programming.
+Welcome to the **ESP32 Modular Rover Project**! This repository tracks the build and progress of a low-cost, 3-wheel differential-drive robot built using accessible components and standard Arduino C++ programming.
 
 The goal of this project is to demonstrate how real-world engineering, microcontrollers, and autonomous systems can be learned hands-on without needing expensive commercial kits.
 
@@ -16,19 +16,15 @@ The goal of this project is to demonstrate how real-world engineering, microcont
 
 ---
 
-## 📂 Released Modules
+## 📊 Project Releases Directory
 
-### 🟢 Project 01: Smartphone-Controlled Base Build
-* **Features:** Wireless Bluetooth direction control, PWM speed tuning (`motorSpeed = 100`) for smooth desk performance, differential steering logic.
-* **Directory:** [`/Project_01_Bluetooth_Base`](./Project_01_Bluetooth_Base)
-* **Files Included:** Source code (`Project_01_Bluetooth_Base.ino`), Wiring schematic diagram (`Wiring_Schematic.png`), Documentation.
+Click on any project title or file link in the table below to jump directly to the documentation and source code:
 
-### 🟢 Project 02: Autonomous Obstacle Avoidance Rover
-* **Features:** Echolocation distance sensing via HC-SR04 ultrasonic sensor, low-speed indoor precision tuning (`motorSpeed = 80`), 15cm threshold auto-stop, backing, and turn-evasion routine.
-* **Directory:** [/Project_02_Obstacle_Avoidance](./Project_02_Obstacle_Avoidance)
-* **Files Included:** Source code (`main.c`), Wiring schematic reference, Readme.
-
-*(New sensor integrations and modules will be appended here as they are published!)*
+| Module | Title & Core Feature | Primary Hardware | Folder Link | Source Code |
+| :--- | :--- | :--- | :--- | :--- |
+| **Project 01** | Smartphone Bluetooth Remote Base | ESP32 + L298N | [📁 Project_01_Bluetooth_Base](./Project_01_Bluetooth_Base) | [`Project_01_Bluetooth_Base.ino`](./Project_01_Bluetooth_Base/Project_01_Bluetooth_Base.ino) |
+| **Project 02** | Autonomous Obstacle Avoidance | HC-SR04 Ultrasonic Sensor | [📁 Project_02_Obstacle_Avoidance](./Project_02_Obstacle_Avoidance) | [`main.c`](./Project_02_Obstacle_Avoidance/main.c) |
+| **Project 03** | *Upcoming Release* | *TBD* | *Coming Soon* | *Coming Soon* |
 
 ---
 
