@@ -25,7 +25,7 @@ The goal of this project is to demonstrate how real-world engineering, microcont
 
 ### 🟢 Project 02: Autonomous Obstacle Avoidance Rover
 * **Features:** Echolocation distance sensing via HC-SR04 ultrasonic sensor, low-speed indoor precision tuning (`motorSpeed = 80`), 15cm threshold auto-stop, backing, and turn-evasion routine.
-* **Directory:** [/Project_02_Obstacle_Avoidance`](./Project_02_Obstacle_Avoidance)
+* **Directory:** [/Project_02_Obstacle_Avoidance](./Project_02_Obstacle_Avoidance)
 * **Files Included:** Source code (`main.c`), Wiring schematic reference, Readme.
 
 *(New sensor integrations and modules will be appended here as they are published!)*
