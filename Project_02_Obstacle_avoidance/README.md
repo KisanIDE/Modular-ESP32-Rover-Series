@@ -31,7 +31,7 @@ This module adds autonomous navigation and spatial awareness to the ESP32 3-whee
 
 ## 📂 Included Files
 * `main.c` – Autonomous C/C++ source code for the ESP32.
-* `Wiring_Schematic.png` – Sensor and motor driver pinout connection diagram.
+* `Wiring_Map
 
 ---
 
